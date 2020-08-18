@@ -1,0 +1,1035 @@
+@media (max-width: 1200px) {
+    .header_section {
+        padding: 80px 0;
+    }
+
+    .menu ul li {
+        padding: 0px 5px;
+    }
+
+    .menu ul li a {
+        padding: 10px 30px;
+    }
+
+    .banner {
+        padding: 80px 0 100px 0;
+        width: 50%;
+    }
+
+    .banner .title {
+        font-size: 65px;
+    }
+
+    .banner p {
+        font-size: 20px;
+        line-height: 35px;
+        padding: 60px 0;
+    }
+
+    .btm {
+        padding: 25px 60px;
+    }
+
+    h2.title {
+        width: 80%;
+        font-size: 50px;
+    }
+
+    .section1 .item_icon {
+        font-size: 80px;
+    }
+
+    .section1 .item_details {
+        padding: 60px;
+    }
+
+    .section1 .item_details h3 {
+        padding-bottom: 35px;
+    }
+
+    .section1 .item_div2 {
+        width: 50%;
+        padding-top: 470px;
+    }
+
+    .item_div1 .item:last-child {
+        padding-top: 300px;
+    }
+
+    .section2 {
+        padding: 80px 0;
+    }
+
+    .section2 .div_1 {
+        grid-template: "item1 item2 item3"auto/30% 30% 30%;
+    }
+
+    .section2 .container {
+        padding: 50px 0;
+    }
+
+    .div_2 .details {
+        padding: 35px;
+    }
+
+    .section2 .div_2 {
+        grid-template: "item1 item2 item3"auto/ 32% 32% 32%;
+    }
+
+    .section3 {
+        background-position: center !important;
+    }
+
+    .section3 .sub h4 {
+        font-size: 35px;
+        padding: 75px 0;
+    }
+
+    .section3 .sub .in_data {
+        padding: 20px;
+        margin-bottom: 40px;
+        font-size: 20px;
+    }
+
+    .footer {
+        padding: 100px 0;
+        grid-template: "item1 item2 item3 item4"auto/ 24% 24% 24% 24%;
+    }
+
+    .footer .item>ul {
+        margin-top: 40px;
+    }
+}
+
+@media (max-width: 1100px) {
+    .nav_bar {
+        grid-template: "logo menu"auto/ 10% 70%;
+    }
+
+    .banner {
+        padding: 80px 0 100px 0;
+    }
+
+    h2.title {
+        width: 90%;
+    }
+
+    .section1 .item_div2 {
+        padding-top: 500px;
+    }
+
+    .section1 .item_details {
+        padding: 40px;
+    }
+
+    .section1 .item_details h3 {
+        padding-bottom: 25px;
+    }
+
+    .section1 .item_div2 .more {
+        margin: 190px 0;
+    }
+
+    .div_2 .details {
+        padding: 30px;
+    }
+
+    .div_2 .details h3 {
+        font-size: 22px;
+    }
+
+    .div_2 .details p {
+        padding: 25px 0;
+        font-size: 18px;
+    }
+
+    .footer .item ul li {
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .header_section {
+        padding: 60px 0;
+    }
+
+    .nav_bar {
+        grid-template: "logo menu"auto/ 15% 70%;
+    }
+
+    .menu ul li a {
+        font-size: 18px;
+        padding: 10px 25px;
+    }
+
+    .banner {
+        padding: 60px 0 75px 0;
+        width: 60%;
+    }
+
+    .banner .title {
+        font-size: 60px;
+    }
+
+    .banner p {
+        padding: 50px 0;
+    }
+
+    .btm {
+        font-size: 20px;
+        padding: 25px 55px;
+    }
+
+    .section1 {
+        padding: 75px 0;
+    }
+
+    h2.title {
+        font-size: 45px;
+    }
+
+    .section1 .item_icon {
+        font-size: 70px;
+        padding: 40px 0;
+    }
+
+    .section1 .item_details h3 {
+        padding-bottom: 30px;
+        font-size: 24px;
+    }
+
+    .section1 .item_details p {
+        font-size: 20px;
+        line-height: 35px;
+    }
+
+    .section1 .item_div2 {
+        padding-top: 400px;
+    }
+
+    .item_div1 .item:last-child {
+        padding-top: 270px;
+    }
+
+    .section2 {
+        padding: 75px 0;
+    }
+
+    .div_1 .item p {
+        font-size: 18px;
+    }
+
+    .div_1 .item h4 {
+        font-size: 35px;
+        padding: 25px 0;
+    }
+
+    .section2 .container {
+        padding: 40px 0;
+    }
+
+    .div_2 .details {
+        padding: 25px;
+    }
+
+    .div_2 .details h3 {
+        font-size: 20px;
+    }
+
+    .div_2 .details p {
+        padding: 18px 0;
+        font-size: 16px;
+    }
+
+    .div_2 .details a {
+        font-size: 17px;
+    }
+
+    .section3 .sub h4 {
+        font-size: 30px;
+        padding: 60px 0;
+    }
+
+    .section3 .sub .in_data {
+        padding: 18px;
+        margin-bottom: 30px;
+        font-size: 18px;
+        width: 60%;
+    }
+
+    .section3 .sub .btm {
+        margin-bottom: 40px;
+    }
+
+    .footer {
+        padding: 70px 0;
+        grid-template: "item1 item2 item3 item4"auto/ 25% 25% 25% 25%;
+    }
+
+    .footer .item h5 {
+        font-size: 22px;
+    }
+
+    .footer .item>ul {
+        margin-top: 30px;
+    }
+
+    .footer .item ul li {
+        font-size: 20px;
+    }
+
+    .footer .item ul ul li a {
+        padding-left: 20px;
+    }
+}
+
+@media (max-width: 900px) {
+    .header_section {
+        padding: 50px 0;
+    }
+
+    .nav_bar {
+        grid-template: "logo menu"auto/ 15% 80%;
+    }
+
+    .menu ul li a {
+        font-size: 16px;
+        padding: 8px 20px;
+    }
+
+    .banner {
+        padding: 45px 0 55px 0;
+        width: 60%;
+    }
+
+    .banner .title {
+        font-size: 50px;
+    }
+
+    .banner p {
+        font-size: 18px;
+        line-height: 30px;
+        padding: 40px 0;
+    }
+
+    .btm {
+        font-size: 18px;
+        padding: 18px 35px;
+    }
+
+    .section1 {
+        padding: 55px 0;
+    }
+
+    h2.title {
+        font-size: 36px;
+    }
+
+    .section1 .item_icon {
+        font-size: 55px;
+        padding: 30px 0;
+    }
+
+    .section1 .item_details h3 {
+        padding-bottom: 20px;
+    }
+
+    .section1 .item_details p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .section1 .item_div2 {
+        padding-top: 335px;
+    }
+
+    .item_div1 .item:last-child {
+        padding-top: 220px;
+    }
+
+    .section1 .item_div2 .more {
+        margin: 135px 0;
+    }
+
+    .section2 {
+        padding: 50px 0;
+    }
+
+    .section2 .div_1 {
+        grid-template: "item1 item2 item3"auto/33% 33% 33%;
+    }
+
+    .section2 .container {
+        padding: 30px 0;
+    }
+
+    .div_1 .item h4 {
+        font-size: 30px;
+        padding: 20px 0;
+    }
+
+    .section2 .container {
+        padding: 25px 0;
+    }
+
+    .section2 .div_2 {
+        padding: 30px 0;
+    }
+
+    .div_2 .details {
+        padding: 20px;
+    }
+
+    .div_2 .details h3 {
+        font-size: 17px;
+    }
+
+    .div_2 .details p {
+        padding: 15px 0;
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    .div_2 .details a {
+        font-size: 15px;
+    }
+
+    .section3 .sub h4 {
+        font-size: 25px;
+        padding: 40px 0;
+    }
+
+    .section3 .sub .in_data {
+        padding: 15px;
+        margin-bottom: 22px;
+        font-size: 15px;
+    }
+
+    .section3 .sub .btm {
+        margin-bottom: 30px;
+    }
+
+    .footer {
+        padding: 55px 0;
+    }
+
+    .footer .item h5 {
+        font-size: 20px;
+    }
+
+    .footer .item>ul {
+        margin-top: 20px;
+    }
+
+    .footer .item ul li {
+        font-size: 16px;
+    }
+
+    .footer .item ul ul li a {
+        font-size: 16px;
+    }
+}
+
+@media(max-width: 800px) {
+    .header_section {
+        padding: 30px 0;
+    }
+
+    .banner p {
+        padding: 30px 0;
+    }
+
+    .btm {
+        font-size: 16px;
+        padding: 15px 30px;
+    }
+
+    .banner {
+        padding: 30px 0 30px 0;
+    }
+
+    h2.title {
+        font-size: 35px;
+    }
+
+    .section1 .item_details p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .section1 .item_icon {
+        font-size: 50px;
+    }
+
+    .section1 .item_div2 {
+        padding-top: 290px;
+    }
+
+    .item_div1 .item:last-child {
+        padding-top: 170px;
+    }
+
+    .section1 {
+        padding: 30px 0;
+    }
+
+    .section2 {
+        padding: 30px 0;
+    }
+
+    .div_1 .item p {
+        font-size: 16px;
+    }
+
+    .div_1 .item h4 {
+        font-size: 26px;
+        padding: 15px 0;
+    }
+
+    .div_2 .details h3 {
+        font-size: 16px;
+    }
+
+    .div_2 .details p {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    .div_2 .details a {
+        font-size: 12px;
+    }
+
+    .section3 .sub h4 {
+        font-size: 20px;
+        padding: 30px 0;
+    }
+
+    .section3 .sub .in_data {
+        padding: 12px;
+        margin-bottom: 20px;
+        font-size: 12px;
+    }
+
+    .footer {
+        padding: 30px 0;
+    }
+
+    .footer .item h5 {
+        font-size: 18px;
+    }
+}
+
+@media(max-width: 700px) {
+    .header_section {
+        padding: 20px 0;
+    }
+
+    .nav_bar {
+        grid-template: "logo menu"auto/ 20% 80%;
+    }
+
+    .menu ul li a {
+        font-size: 15px;
+    }
+
+    .banner {
+        padding: 20px 0 15px 0;
+        width: 60%;
+    }
+
+    .banner .title {
+        font-size: 40px;
+    }
+
+    .banner p {
+        font-size: 15px;
+        line-height: 25px;
+        padding: 15px 0;
+    }
+
+    .btm {
+        font-size: 15px;
+        padding: 12px 25px;
+        box-shadow: 0px 15px 15px rgba(0, 0, 0, .1);
+    }
+
+    .section1 {
+        padding: 20px 0;
+    }
+
+    h2.title {
+        font-size: 30px;
+    }
+
+    .section1 .item_icon {
+        font-size: 40px;
+        padding: 20px 0;
+    }
+
+    .section1 .item_details {
+        padding: 30px;
+    }
+
+    .section1 .item_details h3 {
+        padding-bottom: 15px;
+        font-size: 20px;
+    }
+
+    .section1 .item_details p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .section1 .item_div2 {
+        padding-top: 230px;
+    }
+
+    .item_div1 .item:last-child {
+        padding-top: 140px;
+    }
+
+    .section1 .item_div2 .more {
+        margin: 90px 0;
+    }
+
+    .section2 {
+        padding: 20px 0;
+    }
+
+    .section2 .container {
+        padding: 15px 0;
+    }
+
+    .div_1 .item p {
+        font-size: 14px;
+    }
+
+    .div_1 .item h4 {
+        font-size: 22px;
+        padding: 10px 0;
+    }
+
+    .section2 .container {
+        padding: 10px 0;
+    }
+
+    .section2 .div_2 {
+        padding: 20px 0;
+    }
+
+    .div_2 .details {
+        padding: 15px;
+    }
+
+    .div_2 .details h3 {
+        font-size: 14px;
+    }
+
+    .div_2 .details p {
+        font-size: 12px;
+        line-height: 15px;
+        padding: 10px 0;
+    }
+
+    .div_2 .details a {
+        font-size: 11px;
+    }
+
+    .section3 .sub h4 {
+        font-size: 17px;
+        padding: 20px 0;
+    }
+
+    .section3 .sub .in_data {
+        padding: 10px;
+        margin-bottom: 15px;
+        font-size: 10px;
+    }
+
+    .section3 .sub .btm {
+        margin-bottom: 20px;
+    }
+
+    .footer {
+        padding: 20px 0;
+    }
+
+    .footer .item h5 {
+        font-size: 15px;
+    }
+
+    .footer .item>ul {
+        margin-top: 15px;
+    }
+
+    .footer .item ul li {
+        font-size: 13px;
+        padding-bottom: 7px;
+    }
+
+    .footer .item ul ul li a {
+        font-size: 14px;
+        padding-left: 15px;
+    }
+}
+
+@media(max-width: 600px) {
+    .menu ul li a {
+        font-size: 14px;
+        padding: 6px 15px;
+    }
+
+    .banner .title {
+        font-size: 35px;
+    }
+
+    .banner p {
+        font-size: 14px;
+        line-height: 20px;
+        padding: 10px 0;
+    }
+
+    .btm {
+        font-size: 13px;
+        padding: 8px 20px;
+    }
+
+    h2.title {
+        font-size: 24px;
+    }
+
+    .section1 .item_icon {
+        font-size: 30px;
+        padding: 15px 0;
+    }
+
+    .section1 .item_details {
+        padding: 20px;
+    }
+
+    .section1 .item_details h3 {
+        padding-bottom: 10px;
+        font-size: 17px;
+    }
+
+    .section1 .item_details p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .section1 .item_div2 {
+        padding-top: 185px;
+    }
+
+    .item_div1 .item:last-child {
+        padding-top: 120px;
+    }
+
+    .section1 .item_div2 .more {
+        margin: 75px 0;
+    }
+
+    .div_1 .item p {
+        font-size: 12px;
+    }
+
+    .div_1 .item h4 {
+        font-size: 18px;
+        padding: 5px 0;
+    }
+
+    .div_2 .details h3 {
+        font-size: 12px;
+    }
+
+    .div_2 .details p {
+        padding: 5px 0;
+    }
+
+    .section3 .sub h4 {
+        font-size: 14px;
+        padding: 18px 0;
+    }
+
+    .section3 .sub .in_data {
+        padding: 8px;
+        margin-bottom: 10px;
+        font-size: 9px;
+    }
+
+    .section3 .sub .btm {
+        margin-bottom: 15px;
+    }
+
+    .footer .item h5 {
+        font-size: 12px;
+    }
+
+    .footer .item>ul {
+        margin-top: 10px;
+    }
+
+    .footer .item ul li {
+        font-size: 11px;
+        padding-bottom: 5px;
+    }
+}
+
+@media(max-width: 500px) {
+    .menu ul li {
+        padding: 0px 0px;
+    }
+
+    .menu ul li a {
+        font-size: 12px;
+    }
+
+    .banner .title {
+        font-size: 26px;
+    }
+
+    .banner p {
+        font-size: 12px;
+        line-height: 15px;
+        padding: 5px 0;
+    }
+
+    .btm {
+        font-size: 11px;
+        padding: 6px 12px;
+    }
+
+    h2.title {
+        font-size: 18px;
+    }
+
+    .section1 .item_div1 {
+        width: 70%;
+        float: none;
+        margin: 0 auto;
+    }
+
+    .section1 .item_div2 {
+        width: 70%;
+        float: none;
+        margin: 0 auto;
+        padding-top: 10px;
+    }
+
+    .item_div1 .item:last-child {
+        padding-top: 10px;
+    }
+
+    .section1 .item_icon {
+        font-size: 25px;
+        padding: 10px 0;
+    }
+
+    .section1 .item_div2 .more {
+        margin: 20px 0;
+    }
+
+    .section2 .div_1 {
+        grid-template: "item1"auto "item2"auto "item3"auto/70%;
+        justify-content: center;
+    }
+
+    .section2 .div_1 .item {
+        padding: 10px 0;
+    }
+
+    .div_1 .item p {
+        font-size: 11px;
+    }
+
+    .div_1 .item h4 {
+        font-size: 15px;
+        padding: 0px 0;
+    }
+
+    .section2 .div_2 {
+        grid-template: "item1"auto "item2"auto "item3"auto/60%;
+        justify-content: center;
+    }
+
+    .section2 .div_2 .item {
+        margin: 10px 0;
+    }
+
+    .div_2 .details p {
+        font-size: 11px;
+    }
+
+    .section3 .sub h4 {
+        font-size: 12px;
+        padding: 15px 0;
+    }
+
+    .section3 .sub .in_data {
+        padding: 5px;
+        margin-bottom: 5px;
+        font-size: 8px;
+    }
+
+    .section3 .sub .in_data {
+        padding: 5px;
+        margin-bottom: 5px;
+        font-size: 8px;
+    }
+
+    .footer .item h5 {
+        font-size: 10px;
+    }
+
+    .footer .item>ul {
+        margin-top: 5px;
+    }
+
+    .footer .item ul li {
+        font-size: 8px;
+        padding-bottom: 5px;
+    }
+
+    .footer .item ul ul li a {
+        font-size: 11px;
+        padding-left: 5px;
+    }
+}
+
+@media(max-width: 400px) {
+    .container {
+        width: 95%;
+    }
+
+    .header_section {
+        padding: 10px 0;
+    }
+
+    .menu ul li a {
+        font-size: 9px;
+        padding: 3px 10px;
+    }
+
+    .banner {
+        padding: 10px 0 5px 0;
+        width: 60%;
+    }
+
+    .banner .title {
+        font-size: 20px;
+    }
+
+    .banner p {
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .btm {
+        font-size: 9px;
+        padding: 3px 6px;
+    }
+
+    .section1 {
+        padding: 10px 0;
+    }
+
+    h2.title {
+        font-size: 15px;
+    }
+
+    .section1 .item_icon {
+        font-size: 20px;
+        padding: 5px 0;
+    }
+
+    .section1 .item_details {
+        padding: 10px;
+    }
+
+    .section1 .item_details h3 {
+        padding-bottom: 5px;
+        font-size: 13px;
+    }
+
+    .section1 .item_details p {
+        font-size: 10px;
+        line-height: 13px;
+    }
+
+    .section1 .item_div2 .more {
+        margin: 10px 0;
+    }
+
+    .section2 {
+        padding: 10px 0;
+    }
+
+    .section2 .container {
+        padding: 5px 0;
+    }
+
+    .section2 .div_1 .item {
+        padding: 5px 0;
+    }
+
+    .div_1 .item p {
+        font-size: 9px;
+    }
+
+    .div_1 .item h4 {
+        font-size: 11px;
+        padding: 0px 0;
+    }
+
+    .section2 .div_2 {
+        padding: 5px 0;
+    }
+
+    .div_2 .details h3 {
+        font-size: 10px;
+    }
+
+    .div_2 .details p {
+        font-size: 8px;
+        line-height: 10px;
+        padding: 3px 0;
+    }
+
+    .div_2 .details a {
+        font-size: 9px;
+    }
+
+    .section3 .sub h4 {
+        font-size: 10px;
+        padding: 5px 0;
+    }
+
+    .section3 .sub .in_data {
+        padding: 3px;
+        margin-bottom: 0px;
+        font-size: 7px;
+    }
+
+    .footer {
+        padding: 10px 0;
+    }
+
+    .footer .item h5 {
+        font-size: 8px;
+    }
+
+    .footer .item>ul {
+        margin-top: 2px;
+
+    }
+
+    .footer .item ul li {
+        font-size: 6px;
+        padding-bottom: 1px;
+    }
+
+    .footer .item ul ul li a {
+        font-size: 6px;
+        padding-left: 2px;
+    }
+}
